@@ -1,11 +1,11 @@
-# Android app to demonstrate Implicit intent behaviour using Web link and phone call
+# Android app to demonstrate Implicit intent behavior using Web link and phone call
 ####                                                                                                     By Manoj Kumar
 ## Introduction 
-Android app to demonstrate Implicit intent behaviour using Web link and phone call.
+Android app to demonstrate Implicit intent behavior using Web link and phone call.
 
 
 ## How to Run
-1.	Prerequsit: Android Studio, some Java knowledge
+1.	Prerequisite: Android Studio, some Java knowledge
 2.	Download or clone project code and open in Android studio.
 3.	Run in Nexus 5 emulator.
 
